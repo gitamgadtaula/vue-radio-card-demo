@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.4.21",
-    "vue3-radio-card": "^0.4.1"
+    "vue3-radio-card": "^0.7.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",

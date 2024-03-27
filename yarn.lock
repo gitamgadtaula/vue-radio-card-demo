@@ -559,9 +559,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.715"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.715.tgz#bb16bcf2a3537962fccfa746b5c98c5f7404ff46"
-  integrity sha512-XzWNH4ZSa9BwVUQSDorPWAUQ5WGuYz7zJUNpNif40zFCiCl20t8zgylmreNmn26h5kiyw2lg7RfTmeMBsDklqg==
+  version "1.4.717"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.717.tgz#99db370cae8cd090d5b01f8748e9ad369924d0f8"
+  integrity sha512-6Fmg8QkkumNOwuZ/5mIbMU9WI3H2fmn5ajcVya64I5Yr5CcNmO7vcLt0Y7c96DCiMO5/9G+4sI2r6eEvdg1F7A==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1199,10 +1199,10 @@ vue-tsc@^2.0.6:
     "@vue/language-core" "2.0.7"
     semver "^7.5.4"
 
-vue3-radio-card@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/vue3-radio-card/-/vue3-radio-card-0.4.1.tgz#755af5aa28ab203130ef2f5267bd32dd7709df8a"
-  integrity sha512-Hgs1y8SlyiIdn5iZ6Ox7lVQ1tTTLwZV9K31ut5Ijr2BLHeOHUB41sivDC0j6SqOs7mXQjuAmKwtDJ2IY1D87tQ==
+vue3-radio-card@^0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/vue3-radio-card/-/vue3-radio-card-0.7.5.tgz#e1199d6b2495d0ebe81b0168a5784e2ce27718fd"
+  integrity sha512-vFDhyOS8KfSs6S46xmzfORfXfQT7qPQS7JuSYkI//X3PRQ1+O9kH4HgSt9b7e15ONocc7Sy9uyavhHr7WpzDBA==
   dependencies:
     vue "^3.4.21"
 
